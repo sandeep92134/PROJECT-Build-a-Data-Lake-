@@ -66,5 +66,6 @@ with following instrution which was given in data warehouse section
 3. run etl.py with
 > python etl.py in terminal
 
-# <font color=red>REMINDER: Do not include your AWS access keys in your code when sharing this project!<font>
+# REMINDER: Do not include your AWS access keys in your code when sharing this project!
+
 
