@@ -47,11 +47,9 @@ log_data/2018/11/2018-11-12-events.json
 log_data/2018/11/2018-11-13-events.json
 ```
 And below is an example of what the data in a log file, 2018-11-12-events.json, looks like.
-![json ](file:///C:\Users\Priya\OneDrive\Desktop\1.png)
-
-![schema](file:///C:\Users\Priya\OneDrive\Desktop\2.png)
-
-![project](file:///C:\Users\Priya\OneDrive\Desktop\3.png)
+![log-data](https://user-images.githubusercontent.com/64914145/84390929-e6852e80-ac15-11ea-8969-373b94272b88.png)
+![1](https://user-images.githubusercontent.com/64914145/84390959-f270f080-ac15-11ea-86c9-0fb4d630afca.png)
+![1 a](https://user-images.githubusercontent.com/64914145/84391004-fdc41c00-ac15-11ea-8400-c60672980907.png)
 
 ### sample query and process to doing it
 
@@ -68,8 +66,5 @@ with following instrution which was given in data warehouse section
 3. run etl.py with
 > python etl.py in terminal
 
-#### sample output in terminal
-
-![sample](4.png)
 # <font color=red>REMINDER: Do not include your AWS access keys in your code when sharing this project!<font>
 
